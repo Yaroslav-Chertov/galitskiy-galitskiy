@@ -3,6 +3,8 @@
 Сайт крупнейшей премиальной винодельни в России с высокой плотностью анимации, нестандартной логикой скролла и динамическими звуковыми эффектами.
 
 ![](./Screenshot_readme.png)
+![](./Screenshot_readme_about_us.png)
+![](./Screenshot_readme_wines.png)
 
 [Ссылка на прод](https://galitskiy-galitskiy.ru/)
 
